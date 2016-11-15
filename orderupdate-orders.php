@@ -10,7 +10,7 @@ function orderupdatePastOrders(){ ?>
   //Create a new array of files in the order folder
 	$dir = new DirectoryIterator(plugin_dir_path( __FILE__ ).'orders');
   //Directory Address
-  $fullDir ='/testplatform2016/wp-content/plugins/orderupdate/orders/';
+  $fullDir ='/wp-content/plugins/orderupdate/orders/';
     //Loop through each file and get name and last modified time
     foreach ($dir as $fileinfo) {
 		    if (!$fileinfo->isDot()) {
