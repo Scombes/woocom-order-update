@@ -8,6 +8,9 @@ The fulfillment warehouse uploads XML files with order numbers and tracking numb
 
 This plugin allows you to set FTP credentials, determine how often the FTP server is checked  and saves past order files.
 
+## Notice
+
+This plugin was designed based on the XML file provided by our fulfillment service. To work for your solution, you may need to update the orderupdate_class.php file.
 
 ## License
 
