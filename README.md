@@ -11,4 +11,4 @@ This plugin allows you to set FTP credentials, determine how often the FTP serve
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+Apache License Version 2.0
