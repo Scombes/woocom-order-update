@@ -1,6 +1,6 @@
 ## Synopsis
 
-This plugin was designed to update orders using XML files provided by our fulfillment warehouse.
+This Woocommerce plugin was designed to update orders using XML files provided by our fulfillment warehouse.
 
 ## Process
 
