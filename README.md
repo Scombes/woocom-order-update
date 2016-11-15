@@ -10,7 +10,7 @@ This plugin allows you to set FTP credentials, determine how often the FTP serve
 
 ## Notice
 
-This plugin was designed based on the XML file provided by our fulfillment service. To work for your solution, you may need to update the orderupdate_class.php file.
+This plugin was designed based on the XML file provided by our fulfillment service. To work for your solution, you may need to update the orderupdate_class.php file. Check out the example XML file to see what we were working with.
 
 ## License
 
